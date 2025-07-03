@@ -1,5 +1,4 @@
 
-```css
 :root {
     --text-color: #DBE4EF;
     --card-front-color: #144480;
@@ -8,7 +7,7 @@
 ```
 
 body {
-    background: url('img/background.jpg')
+    background: url('img/background.jpg');
     font-family: 'Courier New', Courier, monospace;
 }
 
